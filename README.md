@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### <div align="center"> I am a web developer who has a passion for creating innovative and user-friendly applications. 🚀💻 
+### <div align="center"> 
+I'm an avid computer engineering enthusiast driven by a passion for groundbreaking technologies, constantly striving to expand the horizons of what's achievable through computation. 🌟💻 
 </div>  
 
 
